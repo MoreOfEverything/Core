@@ -1,0 +1,11 @@
+[{
+  "modid": "moe_core",
+  "name": "More of Everything",
+  "description": "More of Everything core",
+  "version": "1.0",
+  "mcversion": "1.10.2",
+  "logoFile": "assets/core/textures/logo.png",
+  "url": "moreofeverything.org/core",
+  "updateJSON": "moreofeverything.org/core/versions.json",
+  "authorList": ["DeadlySandwich", "William Price"]
+}]
