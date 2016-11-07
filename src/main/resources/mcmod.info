@@ -5,6 +5,8 @@
   "version": "1.0",
   "mcversion": "1.10.2",
   "logoFile": "assets/core/textures/logo.png",
+  "dependants": [ "moe_bakery" ],
+  "useDependencyInformation": true,
   "url": "moreofeverything.org/core",
   "updateJSON": "moreofeverything.org/core/versions.json",
   "authorList": ["DeadlySandwich", "William Price"]
